@@ -2,7 +2,7 @@
   "name": "quynhdao.github.io",
   "version": "1.0.0",
   "description": "Dao Nguyen porfolio",
-  "homepage": "https://daonguyen.github.io",
+  "homepage": "https://quynhdao1207.github.io/daoporforlio/",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --open --hot --watch --config webpack.dev.js",
